@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055700230696",
+    "firebase_url": "https://friendsly1.firebaseio.com",
+    "project_id": "friendsly1",
+    "storage_bucket": "friendsly1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055700230696:android:dd1b184b032a840a000b1d",
+        "android_client_info": {
+          "package_name": "com.example.friendsly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055700230696-hl7iostm9m76j2ts19uq6ls7f17r6s0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSheO1xpVk45584mVF-L0aFu01XtO56B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055700230696-hl7iostm9m76j2ts19uq6ls7f17r6s0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
